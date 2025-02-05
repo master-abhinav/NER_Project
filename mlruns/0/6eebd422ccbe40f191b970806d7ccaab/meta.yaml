@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abhinav/NER_Project/mlruns/0/6eebd422ccbe40f191b970806d7ccaab/artifacts
+end_time: 1738590342159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eebd422ccbe40f191b970806d7ccaab
+run_name: gentle-squid-139
+run_uuid: 6eebd422ccbe40f191b970806d7ccaab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738589913745
+status: 4
+tags: []
+user_id: Abhinav

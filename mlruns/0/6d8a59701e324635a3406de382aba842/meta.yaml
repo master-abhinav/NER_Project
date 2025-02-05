@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Abhinav/NER_Project/mlruns/0/6d8a59701e324635a3406de382aba842/artifacts
+end_time: 1738590787560
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6d8a59701e324635a3406de382aba842
+run_name: bald-moth-191
+run_uuid: 6d8a59701e324635a3406de382aba842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738590384678
+status: 3
+tags: []
+user_id: Abhinav
